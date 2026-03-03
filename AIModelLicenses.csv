@@ -1,0 +1,98 @@
+Model Name,Model Type,License Class,License Description,Commercial Use,License URL
+SD 1.4,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 1.5,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 1.5 LCM,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 1.5 Hyper,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 2.0,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 2.0 768,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 2.1,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 2.1 768,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SD 2.1 Unclip,Image,RAIL,CreativeML Open RAIL-M,Restricted,https://huggingface.co/spaces/CompVis/stable-diffusion-license
+SDXL 0.9,Image,NON_COMMERCIAL,Research Only (Non-Commercial),Not Allowed,https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
+SDXL 1.0,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+SDXL 1.0 LCM,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+SDXL Distilled,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+SDXL Turbo,Image,NON_COMMERCIAL,SAI Non-Commercial Research License,Not Allowed,https://huggingface.co/stabilityai/sdxl-turbo
+SDXL Lightning,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+SDXL Hyper,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+Pony,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+Pony V7,Image,NON_COMMERCIAL,Custom Non-Commercial Clause,Not Allowed,https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0
+Illustrious,Image,NON_COMMERCIAL,Custom Non-Commercial Clause,Not Allowed,https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0
+NoobAI,Image,NON_COMMERCIAL,Custom Non-Commercial Clause,Not Allowed,https://huggingface.co/Laxhar/noobai-XL-1.1
+SD 3,Image,REVENUE_GATED,> $1M Revenue Cap (SAI Community License),Allowed <$1M,https://huggingface.co/stabilityai/stable-diffusion-3.5-large/blob/main/LICENSE.md
+SD 3.5,Image,REVENUE_GATED,> $1M Revenue Cap (SAI Community License),Allowed <$1M,https://huggingface.co/stabilityai/stable-diffusion-3.5-large/blob/main/LICENSE.md
+SD 3.5 Medium,Image,REVENUE_GATED,> $1M Revenue Cap (SAI Community License),Allowed <$1M,https://huggingface.co/stabilityai/stable-diffusion-3.5-medium/blob/main/LICENSE.md
+SD 3.5 Large,Image,REVENUE_GATED,> $1M Revenue Cap (SAI Community License),Allowed <$1M,https://huggingface.co/stabilityai/stable-diffusion-3.5-large/blob/main/LICENSE.md
+SD 3.5 Large Turbo,Image,REVENUE_GATED,> $1M Revenue Cap (SAI Community License),Allowed <$1M,https://huggingface.co/stabilityai/stable-diffusion-3.5-large-turbo/blob/main/LICENSE.md
+Flux.1 S,Image,APACHE,Apache 2.0 (Schnell),Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Flux.1 D,Image,ENTERPRISE_REQUIRED,Flux Non-Commercial License,Not Allowed,https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/LICENSE.md
+Flux.1 Krea,Image,ENTERPRISE_REQUIRED,Requires Enterprise License (Flux.1 D Derivative),Not Allowed,https://fal.ai/models/fal-ai/flux/krea
+Flux.1 Kontext,Image,ENTERPRISE_REQUIRED,Requires Enterprise License (Flux.1 D Derivative),Not Allowed,https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/blob/main/LICENSE.md
+Flux.2 D,Image,ENTERPRISE_REQUIRED,Requires Enterprise License (BFL Non-Commercial),Not Allowed,https://huggingface.co/black-forest-labs/FLUX.2-dev/blob/main/LICENSE.md
+Flux.2 Klein 9B,Image,ENTERPRISE_REQUIRED,Requires Enterprise License,Not Allowed,https://huggingface.co/black-forest-labs/FLUX.2-klein-9B/blob/main/LICENSE.md
+Flux.2 Klein 9B-base,Image,ENTERPRISE_REQUIRED,Requires Enterprise License,Not Allowed,https://huggingface.co/black-forest-labs/FLUX.2-klein-base-9B/blob/main/LICENSE.md
+Flux.2 Klein 4B,Image,APACHE,Apache 2.0 (Klein 4B),Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Flux.2 Klein 4B-base,Image,APACHE,Apache 2.0 (Klein 4B Base),Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+LTXV,Video,REVENUE_GATED,< $10M Revenue Cap (Lightricks Commercial),Allowed <$10M,https://huggingface.co/Lightricks/LTX-Video/blob/main/LICENSE.txt
+LTXV2,Video,REVENUE_GATED,< $10M Revenue Cap (Lightricks Commercial),Allowed <$10M,https://huggingface.co/Lightricks/LTX-2/blob/main/LICENSE
+Mochi,Video,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+CogVideoX,Video,NON_COMMERCIAL,Custom Non-Commercial Clause,Not Allowed,https://huggingface.co/THUDM/CogVideoX-5b
+CogVideoX-2B,Video,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Hunyuan Video,Video,NON_COMMERCIAL,Banned in UK/EU (Tencent Territorial Restriction),Restricted,https://huggingface.co/tencent/HunyuanVideo/blob/main/LICENSE.txt
+Wan Video,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.1/blob/main/LICENSE.txt
+Wan Video 1.3B t2v,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.1/blob/main/LICENSE.txt
+Wan Video 14B t2v,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.1/blob/main/LICENSE.txt
+Wan Video 14B i2v 480p,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.1/blob/main/LICENSE.txt
+Wan Video 14B i2v 720p,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.1/blob/main/LICENSE.txt
+Wan Video 2.2 I2V-A14B,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.2/blob/main/LICENSE.txt
+Wan Video 2.2 T2V-A14B,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.2/blob/main/LICENSE.txt
+Wan Video 2.2 TI2V-5B,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.2/blob/main/LICENSE.txt
+Wan Video 2.5 T2V,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.2/blob/main/LICENSE.txt
+Wan Video 2.5 I2V,Video,APACHE,Apache 2.0,Allowed,https://github.com/Wan-Video/Wan2.2/blob/main/LICENSE.txt
+SVD,Video,NON_COMMERCIAL,Stable Video Diffusion Research License,Not Allowed,https://huggingface.co/stabilityai/stable-video-diffusion-img2vid
+SVD XT,Video,NON_COMMERCIAL,Stable Video Diffusion Research License,Not Allowed,https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt
+Stable Cascade,Image,NON_COMMERCIAL,Non-Commercial Research License,Not Allowed,https://huggingface.co/stabilityai/stable-cascade/blob/main/LICENSE
+AuraFlow,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Chroma,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Lumina,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+HiDream,Image,MIT,MIT License,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
+Hunyuan 1,Image,NON_COMMERCIAL,Custom Non-Commercial Clause (Tencent),Not Allowed,https://huggingface.co/tencent/HunyuanDiT/blob/main/LICENSE.txt
+Kolors,Image,NON_COMMERCIAL,Custom Restricted License,Not Allowed,https://huggingface.co/Kwai-Kolors/Kolors
+PixArt a,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+PixArt E,Image,RAIL,CreativeML Open RAIL++-M,Restricted,https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/LICENSE.md
+Playground v2,Image,NON_COMMERCIAL,Non-Commercial Community License,Not Allowed,https://huggingface.co/playgroundai/playground-v2-1024px-aesthetic/blob/main/LICENSE.md
+ZImageTurbo,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+ZImageBase,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Qwen,Text / LLM,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Qwen2.5-VL,Multimodal,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Qwen-Image,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Qwen-Image-Edit,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Nano Banana,Image,PROPRIETARY,Proprietary API Only,API Only,https://ai.google.dev/gemini-api/docs/nanobanana
+OpenAI,Multimodal,PROPRIETARY,Proprietary API Only,API Only,https://openai.com/policies/terms-of-use
+Imagen4,Image,PROPRIETARY,Proprietary API Only,API Only,https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden
+Veo 3,Video,PROPRIETARY,Proprietary API Only,API Only,https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden
+Veo 3.1,Video,PROPRIETARY,Proprietary API Only,API Only,https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden
+Seedream,Video,PROPRIETARY,Proprietary API Only,API Only,https://www.byteplus.com/en/product/seedance
+Sora 2,Video,PROPRIETARY,Proprietary API Only,API Only,https://openai.com/sora
+Kling,Video,PROPRIETARY,Proprietary API Only,API Only,https://www.klingai.com/terms-of-service
+Vidu Q1,Video,PROPRIETARY,Proprietary API Only,API Only,https://www.vidu.ai/terms
+Seedance,Video,PROPRIETARY,Proprietary API Only,API Only,https://www.byteplus.com/en/product/seedance
+Qwen 2.5 (All),Text / LLM,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+DeepSeek r1,Text / LLM,MIT,MIT License,Allowed,https://github.com/deepseek-ai/DeepSeek-R1/blob/main/LICENSE
+DeepSeek v3-0324,Text / LLM,MIT,MIT License,Allowed,https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE
+OLMo series,Text / LLM,APACHE,Apache 2.0,Allowed,https://github.com/allenai/OLMo/blob/main/LICENSE
+gpt-oss-120b,Text / LLM,APACHE,Apache 2.0,Allowed,https://github.com/gpt-oss/gpt-oss-120b/blob/main/LICENSE
+Phi 4,Text / LLM,MIT,MIT License,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
+IBM Granite,Text / LLM,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+GLM 4 0414,Text / LLM,MIT,MIT License,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
+Mistral Small 3,Text / LLM,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+Ideogram V3,Image,PROPRIETARY,Proprietary API Only,API Only,https://ideogram.ai/terms-of-service
+Ray2 (Luma),Video,PROPRIETARY,Proprietary API Only,API Only,https://lumalabs.ai/legal/terms
+Runway Gen-4,Video,PROPRIETARY,Proprietary API Only,API Only,https://runwayml.com/terms-of-use
+Bria.ai (FIBO),Image,ENTERPRISE_REQUIRED,Requires Enterprise/Commercial License,Not Allowed,https://bria.ai/legal-lobby
+Recraft,Image,PROPRIETARY,Proprietary API Only,API Only,https://www.recraft.ai/terms
+Trellis,3D,MIT,MIT License,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
+Trellis 2,3D,MIT,MIT License,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md
+Hunyuan T1,Text / LLM,PROPRIETARY,Proprietary API Only,API Only,https://cloud.tencent.com/document/product/1729
+Qwen-Image-Edit-2511,Image,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
+SeedVR2,Video / 3D,APACHE,Apache 2.0,Allowed,https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md
