@@ -4,7 +4,7 @@ A reference list of AI model licenses and commercial use permissions.
 
 ## Data
 
-[AIModelLicenses.csv](AIModelLicenses.csv) — 97 models across image, video, text, and multimodal categories.
+[AIModelLicenses.csv](AIModelLicenses.csv) — AI models across image, video, text, and multimodal categories.
 
 ### Columns
 
